@@ -1,5 +1,5 @@
 > [!NOTE]  
-> The Implementation is so far done\
+> The Implementation is mostly done\
 > but the experiments and there evaluation is not!
 
 # ExamLeray - Maximum Cut
