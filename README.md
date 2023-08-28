@@ -2,8 +2,6 @@
 > The Implementation is mostly done\
 > but the experiments and there evaluation is not!
 
-<!-- this is a test -->
-
 # ExamLeray - Maximum Cut
 
 ## Dependencies
